@@ -1,0 +1,14 @@
+data/
+env/
+info/
+logs/
+notebooks/
+processed_data/nifty_master_file.csv
+results/
+signals/
+.env
+*.html
+live_options_analyser.py
+*.csv
+res.txt
+results.txt
